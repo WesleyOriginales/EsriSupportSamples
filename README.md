@@ -1,6 +1,6 @@
 # EsriSupportSamples
 
-##Original Samples:
+## Original Samples:
 You can learn more about each sample in the README. URL to the live sample is also available at the bottom of each README.
 
 - [Extent Helper tool](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/extent-helper)
@@ -10,7 +10,7 @@ You can learn more about each sample in the README. URL to the live sample is al
 - [Get Feature Layer's drawingInfo](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/get-featurelayer-drawing-info)
 - [Projection using geometryService and webMercatorUtils](https://github.com/Esri/developer-support/tree/master/web-js/4.x/projection_geometryService_webMercatorUtils)
 
-##Modifications of Older Samples:
+## Modifications of Older Samples:
 These samples were originally created by previous support analysts, but used retired versions or were no longer functional. I have migrated these apps to use modern ArcGIS technologies such as Map Components and Calcite Design System. URL to the live sample is also available at the bottom of the README.
 
 - [Buffer Based on Attributes](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/buffer-based-on-attributes)
