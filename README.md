@@ -4,7 +4,7 @@
 You can learn more about each sample in the README. URL to the live sample is also available at the bottom of each README.
 
 - [Extent Helper tool](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/extent-helper)
-- [Open Popups using HitTest)[https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/open-popups-with-hittest]
+- [Open Popups using HitTest](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/open-popups-with-hittest)
 - [Remove clustering information from Legend widget](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/remove-cluster-info-from-legend)
 - [Dynamic Table with Calcite Design System](https://github.com/Esri/developer-support/tree/master/calcite-design-system/dynamic-table)
 - [Get Feature Layer's drawingInfo](https://github.com/Esri/developer-support/tree/master/maps-sdk/javascript-maps-sdk/get-featurelayer-drawing-info)
